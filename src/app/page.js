@@ -8,6 +8,8 @@ export const dynamic = "force-dynamic";
 // https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config#dynamic
 // TODO: pending to solve this
 
+// comment to test the git commit
+console.log("testing the commit");
 
 export default async function Home({ searchParams }) {
 
