@@ -9,7 +9,7 @@ export const dynamic = "force-dynamic";
 // TODO: pending to solve this
 
 // comment to test the git commit
-console.log("testing the commit");
+console.log("testing the commit 2");
 
 export default async function Home({ searchParams }) {
 
